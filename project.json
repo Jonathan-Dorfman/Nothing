@@ -1,0 +1,10 @@
+{
+    "name": "Nothing",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Nothing.xml",
+    "author": "Jonathan-Dorfman",
+    "minimum_firmware_version": 42
+}
